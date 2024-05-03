@@ -1,0 +1,4 @@
+log pass 1 1
+user pass 0 1
+nouser pass 0 1
+qq pass 0 1
